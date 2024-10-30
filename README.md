@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 😃 About Me:
 My name is Pablo, and I'm a software engineer with a passion for continuous learning. Currently, I’m diving into SQL and Kotlin, expanding my skills to become a more versatile developer. I’m particularly drawn to understanding the inner workings of databases and the power of building intuitive, efficient Android applications. My technical skills also include proficiency in JavaScript, Python, HTML, and CSS, which allows me to create well-rounded, full-stack projects. For me, the excitement of coding lies in the constant challenge and opportunity to grow as technology evolves.
 
 
